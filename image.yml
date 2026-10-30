@@ -16,6 +16,9 @@ upstream:
   notes:
     type: github_release
     repo: SpacingBat3/WebCord
+  sponsor:
+  - name: GitHub Sponsors (SpacingBat3)
+    url: https://github.com/sponsors/SpacingBat3
 
 release:
   branch: master
